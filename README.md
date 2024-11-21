@@ -1,8 +1,8 @@
 <!--hide-->
-# Calculus and algebra in Python - Step by step guide
+# Calculus and Algebra in Python - Step by Step Guide
 <!--endhide-->
 
-- Complete the problems using calculus, algebra and Python.
+- Complete the problems using calculus, algebra, and Python.
 
 ## 🌱 How to start this project
 
